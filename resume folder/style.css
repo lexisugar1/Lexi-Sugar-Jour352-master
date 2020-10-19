@@ -1,0 +1,49 @@
+/*Main Style*/
+body {
+  font-family:'Open Sans',Arial, sans-serif;
+  font-size: 1em;
+  color:#444;
+  font-weight:400;
+}
+/*Banner Name at Top*/
+h1 {
+  font-size:3em;
+  text-transform: uppercase;
+  text-align: center;
+  color:#33485e;
+}
+
+strong {
+  color:#33485e;
+  text-transform:uppercase;
+  font-size:1.5em;
+
+}
+/*Section Titles*/
+h2{
+  font-size: 1.5em;
+  text-transform:uppercase;
+  background-color:#33485e;
+  color:#fff;
+
+}
+/*Job Titles*/
+h3 {
+  font-size:1.5em;
+  font-weight:600;
+}
+/*Job Organization*/
+h4{
+  font-weight:400;
+  font-size: 1.5em;
+}
+/*Job Dates*/
+h5{
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1em;
+  }
+
+  li {
+    font-size:1em;
+  }

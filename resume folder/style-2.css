@@ -1,0 +1,111 @@
+/*styles for my Resume*/
+
+
+
+body {
+  font-family:'Open Sans', Arial, sans-serif;
+}
+
+#container{
+width:100%;
+max-width:1200px;
+margin:0 auto;
+padding:50px;
+}
+
+/* Put my name in blue at the top and emphasized it*/
+#name{
+  font-size:3em;
+  text-transform: uppercase;
+  text-align: center;
+  color:#33485e;
+  border-bottom:1px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+}
+
+/*Section Titles*/
+.sectionheader{
+  font-size: 1.5em;
+  background:#33485e;
+  color:#fff;
+  text-transform:uppercase;
+  font-weight:400;
+  margin-top:20px;
+  margin-bottom:10px;
+  margin-right:0;
+  margin-left: 0;
+  width:70%;
+  min-width: 300px;
+}
+
+/*Made my title stand out*/
+#title{
+  color:#33485e;
+  text-transform:uppercase;
+  font-size:1.5em;
+  text-align: center;
+  font-weight:600;
+  margin-top:20px;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0;
+}
+
+/*Job Titles*/
+.jobtitle{
+  font-size:1.5em;
+  font-weight:600;
+}
+/*Job Organization*/
+.organization{
+  font-weight:400;
+  font-size: 1.25em;
+}
+/*Job Dates*/
+.date{
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1em;
+  margin-top:2px;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0;
+  }
+
+/*Added an unordered list containing my contact info*/
+.menu {
+margin:0px;
+padding:0px;
+text-align: center;
+list-style-type: none;
+}
+
+.menu li{
+  display: inline;
+}
+
+/*Added an unordered list containing my education info*/
+#degrees{
+margin-top:5px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:0px;
+}
+
+/*Added an unordered list containing skills section*/
+#do{
+margin-top:5px;
+margin-bottom:0;
+margin-right:0;
+margin-left:0;
+}
+
+/*Centered my mission statement*/
+.top{
+  width:60%;
+  min-width:300px;
+  margin:0 auto;
+  margin-bottom:30px;
+}
