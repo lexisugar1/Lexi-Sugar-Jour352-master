@@ -16,7 +16,7 @@ font-family:Helvetica;
 p{
   font-family: Helvetica, Arial, sans-serif;
 }
-
+/*added a blockquote with select styles to the story*/
 blockquote{
 display:block;
 margin-top:1em;
