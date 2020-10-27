@@ -20,7 +20,7 @@ Questions
 1.  In the sentence below, put in the necessary code that would allow users to click on the word Google and open Google's homepage in a new browser:
 
 Google is the best search engine in the world.
-<a href="https://www.google.com/?client=safari"target=_blank">Google</a>
+<a href="https://www.google.com/?client=safari"target=_new">Google</a>
 
 
 
@@ -56,7 +56,7 @@ In the body section
 
 6.  In the space below, put one DIV tag with a class of graphic box and a second DIV tag with an ID of name.
 
-<p class="graphic box">Graphic box</p>
+<div class="graphic box">Graphic box</div>
 
 <div id= "name"></div>
 
