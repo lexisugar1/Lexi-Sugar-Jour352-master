@@ -55,19 +55,16 @@ In the body section
 
 
 6.  In the space below, put one DIV tag with a class of graphic box and a second DIV tag with an ID of name.
+<p class="graphic box">Graphic box</p>
 
-
-#name{
-
-}
-
+<div id= "name"></div>
 
 
 
 
 
 7.  In the space below, put one DIV tag with an ID of apples and a class of fruit.
-
+<div id="apples" class="fruit"></div>
 
 
 
@@ -97,7 +94,7 @@ A serif is generally reserved for headlines only, while a sans-serif is more rea
 
 
 12. Which of the following is a hexadecimal code?
-#FFCC33
+this is the hexadecimal code: #FFCC33
 123,543,242
 101010101
 -213
