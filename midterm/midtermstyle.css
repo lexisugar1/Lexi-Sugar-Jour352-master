@@ -4,11 +4,14 @@ h1{
 }
 
 h2{
-font-size:35px;
-font-family:Garamond;
+font-size:30px;
+font-family:Helvetica;
 }
 
-h3
+h3{
+font-size:30px;
+font-family:Helvetica;
+}
 
 p{
   font-family: Helvetica, Arial, sans-serif;
