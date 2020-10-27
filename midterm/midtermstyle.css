@@ -18,6 +18,11 @@ p{
 }
 
 blockquote{
+display:block;
+margin-top:1em;
+margin-bottom:1em;
+margin-left:40px;
+margin-right:40px;
 color:#33485e;
 font-style:oblique;
 font-size:25px;
