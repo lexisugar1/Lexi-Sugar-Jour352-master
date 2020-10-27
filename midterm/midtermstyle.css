@@ -16,3 +16,8 @@ font-family:Helvetica;
 p{
   font-family: Helvetica, Arial, sans-serif;
 }
+
+blockquote{
+color:#33485e;
+font-style:oblique;
+}
