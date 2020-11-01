@@ -3,3 +3,7 @@ h1{
   font-family: sans-serif;
   font-weight: bold;
 }
+
+img{
+  border-radius: 50%;
+}
