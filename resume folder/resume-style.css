@@ -4,10 +4,10 @@ h1{
   font-weight: bold;
 }
 
-img{
-  border-radius: 50%;
+.headerimage{
   text-align: center;
-
+  margin: 0 auto;
+}
 
 body {
   font-family:'Open Sans', Arial, sans-serif;
