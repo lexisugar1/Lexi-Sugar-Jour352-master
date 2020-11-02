@@ -7,9 +7,6 @@ h1{
 img{
   border-radius: 50%;
   text-align: center;
-}
-styles for my Resume*/
-
 
 
 body {
@@ -23,7 +20,7 @@ margin:0 auto;
 padding:50px;
 }
 
-/* Put my name in blue at the top and emphasized it*/
+
 #name{
   font-size:3em;
   text-transform: uppercase;
@@ -35,7 +32,6 @@ padding:50px;
   margin: 0 auto;
 }
 
-/*Section Titles*/
 .sectionheader{
   font-size: 1.5em;
   background:#33485e;
@@ -50,9 +46,8 @@ padding:50px;
   min-width: 300px;
 }
 
-/*Made my title stand out*/
+
 #title{
-  color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
   text-align: center;
@@ -63,17 +58,17 @@ padding:50px;
   margin-right:0;
 }
 
-/*Job Titles*/
+
 .jobtitle{
   font-size:1.5em;
   font-weight:600;
 }
-/*Job Organization*/
+
 .organization{
   font-weight:400;
   font-size: 1.25em;
 }
-/*Job Dates*/
+
 .date{
   font-weight: 400;
   font-style: italic;
@@ -94,28 +89,4 @@ list-style-type: none;
 
 .menu li{
   display: inline;
-}
-
-/*Added an unordered list containing my education info*/
-#degrees{
-margin-top:5px;
-margin-bottom:0px;
-margin-right:0px;
-margin-left:0px;
-}
-
-/*Added an unordered list containing skills section*/
-#do{
-margin-top:5px;
-margin-bottom:0;
-margin-right:0;
-margin-left:0;
-}
-
-/*Centered my mission statement*/
-.top{
-  width:60%;
-  min-width:300px;
-  margin:0 auto;
-  margin-bottom:30px;
 }
