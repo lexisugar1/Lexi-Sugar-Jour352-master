@@ -5,9 +5,8 @@ h1{
 }
 
 .headerimage{
-  text-align: center;
-  margin: 0 auto;
-  width:300px;
+  width=1200px;
+  height=auto;
 }
 
 body {
