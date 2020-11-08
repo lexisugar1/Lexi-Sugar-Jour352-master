@@ -11,3 +11,9 @@
   font-family: 'Montserrat', sans-serif;
   text-align:center;
 }
+
+p {
+  font-family: georgia, serif;
+  line-height: 180%;
+
+}
