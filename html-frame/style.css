@@ -24,7 +24,7 @@ h1 {
 img {
   text-align:center;
 }
-
+<style>
 .footer {
   position: fixed;
   left: 0;
@@ -34,3 +34,4 @@ img {
   color: white;
   text-align: center;
 }
+</style>
