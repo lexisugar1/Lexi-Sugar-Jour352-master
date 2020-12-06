@@ -3,6 +3,12 @@
   height: auto;
 }
 
+.quote{
+  font-size:1em;
+  font-weight:700;
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+}
 .headline {
   font-size:3em;
   font-weight:700;
