@@ -33,6 +33,10 @@ h1 {
   font-family: 'Montserrat', sans-serif;
 }
 
+.headerphoto{
+  width:auto;
+  height:auto;
+}
 img {
   text-align:center;
 }
