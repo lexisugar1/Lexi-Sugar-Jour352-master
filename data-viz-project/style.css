@@ -7,8 +7,8 @@
 /*code from htmldog*/
 .pquote{
     float: Center;
-    max-width: 100%;
-    width: 1200px;
+    max-width: 1200px;
+    width: 100%;
     background: #ddf;
     font-style: italic;
     font-weight: bold;
@@ -26,7 +26,7 @@ blockquote{
 }
 
 #beautywnba img{
-  max-width:1200px;
+  max-width:1500px;;
   width:100%;
   height: auto;
 }
