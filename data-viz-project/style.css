@@ -73,3 +73,7 @@ img {
   background:#AC9EE8;
   height:auto;
   text-align:center;
+
+.attribution{
+  font-style: italic;
+}
