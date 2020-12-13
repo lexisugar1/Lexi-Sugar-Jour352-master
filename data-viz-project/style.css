@@ -65,13 +65,13 @@ blockquote{
 }
 
 p{
-  font-family: 'Raleway', sans-serif;
+  font-family:font-family: 'Poppins', sans-serif;
 }
 
 h1{
   font-size: 1em;
-  font-family: 'Raleway', sans-serif;
-  color: #;
+  font-family: font-family: 'Poppins', sans-serif;
+  color: ##AC9EE8;
 }
 
 #headerphoto {
@@ -89,9 +89,9 @@ img {
   text-align:center;
 }
 
-.footer {
+.footer{
   text-align:center;
   padding:3px;
-  background-color:#E6E6FA;
+  background-color:#AC9EE8;
   color:white;
 }
