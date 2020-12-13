@@ -5,7 +5,7 @@
   width: 50%;
 }
 /*code from htmldog*/
-.pquote {
+.pquote{
     float: left;
     width: 100px;
     background: #ddf;
@@ -14,8 +14,29 @@
     margin: 0 13px 13px 0;
 }
 
-blockquote {
+blockquote{
     margin: 0; /* gets rid of the default blockquote margin */
+}
+
+
+.pquote{
+    float: right;
+    width: 200px;
+    background: url(images/openquote.gif) top left no-repeat;
+    color: #030;
+    font-size: 26px;
+    line-height: 0.9;
+    font-style: italic;
+    padding: 13px;
+}
+
+blockquote{
+    margin: 0;
+}
+
+.pquote p:first-letter{
+    font-size: 39px;
+    font-weight: bold;
 }
 
 #beautywnba img{
