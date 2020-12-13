@@ -21,14 +21,14 @@ blockquote{
 }
 
 .pquote p:first-letter{
-    font-size: 39px;
+    font-size: 30px;
     font-weight: regular;
 }
 
 #beautywnba img{
   max-width:1200px;
   width:100%;
-  height:auto;
+  height: auto;
 }
 .quote{
   font-size:1em;
@@ -51,26 +51,16 @@ blockquote{
 }
 
 p{
-  font-family:font-family: 'Poppins', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 h1{
   font-size: 1em;
-  font-family: font-family: 'Poppins', sans-serif;
-  color: ##AC9EE8;
+  font-family:'Raleway', sans-serif;
+  font-weight: 700;
+  color: #AC9EE8;
 }
 
-#headerphoto {
-  width:100%;
-  height:auto;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-  padding: auto;
-  text-align: center;
-
-}
 img {
   text-align:center;
 }
