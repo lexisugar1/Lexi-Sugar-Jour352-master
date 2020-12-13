@@ -65,15 +65,16 @@ img{
   text-align:center;
 }
 
-.footer{
-  margin:0px;
-  padding:3px;
-  min-width:100%;
-  max-width:100%;
-  background:#AC9EE8;
-  height:auto;
-  text-align:center;
-
 .attribution{
   font-style: italic;
 }
+
+.footer{
+  margin:0px;
+  padding:3px;
+  width:100%;
+  min-width: inherit;
+  max-width:1500px;
+  background:#AC9EE8;
+  height:auto;
+  text-align: center;
