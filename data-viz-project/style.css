@@ -4,6 +4,20 @@
   margin-right: auto;
   width: 50%;
 }
+/*code from htmldog*/
+.pquote {
+    float: left;
+    width: 100px;
+    background: #ddf;
+    font-weight: bold;
+    padding: 13px;
+    margin: 0 13px 13px 0;
+}
+
+blockquote {
+    margin: 0; /* gets rid of the default blockquote margin */
+}
+
 #beautywnba img{
   max-width:1200px;
   width:100%;
