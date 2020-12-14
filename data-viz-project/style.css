@@ -70,11 +70,7 @@ img{
 }
 
 .footer{
-  display: block;
-  margin:0px;
-  padding:3px;
-  width:100%;
-  max-width:1440px;
-  background:#AC9EE8;
-  height:auto;
   text-align: center;
+  padding: 3px;
+  background-color: #AC9EE8;
+  margin-top: 2em;
